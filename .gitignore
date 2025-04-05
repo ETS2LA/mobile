@@ -171,3 +171,7 @@ next-env.d.ts
 translations/.gitattributes
 translations/LICENSE
 translations/.vscode
+
+# Ignore Android and iOS builds
+/android
+/ios
