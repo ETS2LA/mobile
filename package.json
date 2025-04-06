@@ -64,6 +64,7 @@
     "react-markdown": "^9.0.1",
     "react-resizable-panels": "^2.1.7",
     "react-snowfall": "^2.2.0",
+    "react-spinners": "^0.15.0",
     "react-syntax-highlighter": "^15.6.1",
     "react-transition-progress": "^0.0.4",
     "recharts": "^2.15.1",
